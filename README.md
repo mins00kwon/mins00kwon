@@ -1,4 +1,5 @@
 ## Hi there 👋
+My Name is Minsoo Kwon
 
 <!--
 **mins00kwon/mins00kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
